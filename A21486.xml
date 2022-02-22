@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yet once agayne by the Kynge to the shyryues</title>
+            <title>Proclamations. 1535-06-09</title>
+            <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1535</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21486</idno>
+            <idno type="STC">STC 7786</idno>
+            <idno type="STC">ESTC S108863</idno>
+            <idno type="EEBO-CITATION">99844515</idno>
+            <idno type="PROQUEST">99844515</idno>
+            <idno type="VID">9335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 10:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Yet once agayne by the Kynge to the shyryues</title>
+                  <title>Proclamations. 1535-06-09</title>
+                  <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1535]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC; Steele suggests T. Berthelet as printer.</note>
+                  <note>Possibly printed for the sheriffs of London. With the same arms as STC 7781: the types are similar to J. Rastell's "Treveris" types, but have distinctive Y, ye, and yt sorts--STC.</note>
+                  <note>Dated at end: the .ix. day of Iune.</note>
+                  <note>Against the usurped power of the Pope.--STC.</note>
+                  <note>Reproduction of the original in the Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reformation --  England --  Early works to 1800.</term>
+               <term>Popes --  Primacy --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:9335:1"/>
+            <head>¶ Yet once agayne by the Kynge to the Shyryues.</head>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>Ruſty and welbeloued we <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you well, and where as not only vpon good, iuſt, &amp; vertuous grounded and reſpected edified vpon the lawes of god &amp; holy ſcripture, by due conſultacyon deliberate <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> our nobles and comons temporal aſſembled in our <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the ſame. We haue by good &amp; holſom lawes &amp; ſtatutes made for y<hi rend="sup">e</hi> purpoſe <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, aboliſhed, ſeꝑated, &amp; ſecluded oute of this oure realme y<hi rend="sup">e</hi> abuſes of the biſhop of Rome his auctorite &amp; iuriſdiction of longe tyme vſuryed aſwel vpon vs and our realme as vpon all other kynges &amp; princes &amp; their realmes, lyke as they their ſelues haue confeſſed &amp; affir<g ref="char:EOLhyphen"/>med, but alſo for aſmuche as our ſaid nobles a co<g ref="char:cmbAbbrStroke">̄</g>mons bothe ſp<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>all &amp; temꝑal aſſembled in our ſaid court of Parliament, haue vpon lyke good lauful &amp; vertuous groundes &amp; for y<hi rend="sup">e</hi> publique weale of this our realme by one hole aſſent, grafted, annexed knytte, and vnied to the crowne imperiall of the ſame, the tytle, dig<g ref="char:EOLhyphen"/>nice, &amp; ſtyle of ſupreme hede merth imediatly vnder god of the churche of Englande as we de &amp; vndoub<g ref="char:EOLhyphen"/>tedly bene byder to ben, which title &amp; ſtyle, both the byſſhops &amp; clargye of this our realme haue not onlye in conuocacion, aſſembled, conſented, recogniſed, &amp; approued laufullye &amp; iuſtlye to apperteyne vnto vs, but alſo by worde othe profeſſion, &amp; wrytynge vnder their ſygnes &amp; ſeales haue confeſſed, ratifyed, coroborated, &amp; confirmed the ſame vtterly renou<g ref="char:cmbAbbrStroke">̄</g>ſyng al other othes &amp; obedience to any foreyn potent are and al foreyn iuriſdictio<g ref="char:cmbAbbrStroke">̄</g>s &amp; powers aſwel as of the ſaid byſhop of Rome as of al other what<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> euer they be: as by theyr ſaid profeſſio<g ref="char:cmbAbbrStroke">̄</g>s &amp; writinges coroborated with y<hi rend="sup">e</hi> ſubſcriptio<g ref="char:cmbAbbrStroke">̄</g> of their names &amp; appe<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ſion of their ſeales more playnly appereth. We let you wyte y<hi rend="sup">e</hi> calling vnto our reme<g ref="char:cmbAbbrStroke">̄</g>brau<g ref="char:cmbAbbrStroke">̄</g>ce the power charge &amp; co<g ref="char:cmbAbbrStroke">̄</g>miſſion gyuen vnto vs of almyghty god, &amp; vpon a vehement loue &amp; affection towardes our louyng &amp; faytful ſubiectes, perceyuyng rightwel what great reſte quietnes &amp; tranquilite of conſcie<g ref="char:cmbAbbrStroke">̄</g>s, &amp; many fold other co<g ref="char:cmbAbbrStroke">̄</g>modities might inſurge &amp; ariſe vnto them, yf that the ſaid byſſhops &amp; other of y<hi rend="sup">e</hi> clargy of thys our realme ſhulde ſet forth, declare &amp; preach vnto them the true &amp; ſincere worde of god, &amp; without all maner colour, diſſi<g ref="char:EOLunhyphen"/>mulacion, &amp; hipocriſt manyfeſt &amp; publyſhe y<hi rend="sup">e</hi> great &amp; inuumerable enormities &amp; abuſes which the ſaid byſhop of Rome: aſwel in the title &amp; ſtyl, as alſo in auctorite &amp; iuriſdiction of long tyme vnlaufully &amp; vniuſtly hath vſuroed vpon vs &amp; our progenitours &amp; al other chriſte<g ref="char:cmbAbbrStroke">̄</g> princes. Haue therfore addreſſed our letters vnto y<hi rend="sup">e</hi> biſſhop of y<hi rend="sup">e</hi> dioces ſtraytly charging &amp; co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>dinge hym in the ſame y<hi rend="sup">t</hi> not only he in his owne propre perſone, ſhal declare, teche and preach vnto the people forthw<hi rend="sup">t</hi> vpo<g ref="char:cmbAbbrStroke">̄</g> the recept of our ſaid letters vnto hi directed, euery Sondaye &amp; other hygh feaſt through y<hi rend="sup">e</hi> yere, the true mere &amp; ſincere worde of God, and y<hi rend="sup">t</hi> the ſayde ſame title, ſtyle &amp; iuriſdiction of ſu<g ref="char:EOLhyphen"/>preme heade apperteyneth onely vnto oure, crowne and dygnyte royall, lykewyſe as the ſayde byſſhop &amp; all other the byſhoppes of oure realme haue by othe affyrmed &amp; confyrmed by ſubſcription of theyr names &amp; ſettyng to theyr ſeales, but alſo gyue warnyng, momcion. &amp; charge, to all maner abbottes, priours, deanes, archdeacons, prouoſtes, perſons, vicars, curates, and all other eccleſiaſtical perſons w<hi rend="sup">t</hi> in his ſayde dioces aſwell to preach, teach plublyſh, and declare in all maner churches oure foreſayde iuſt title, ſtyle &amp; iuriſdiction euery ſondaye &amp; hygh feaſt through the yeare. And furthermore to moniſh &amp; geue commaundeme<g ref="char:cmbAbbrStroke">̄</g>t to all maner ſcoole mayſters within hys ſayde dioces to inſtruct and teache the ſame vnto the chyldre<g ref="char:cmbAbbrStroke">̄</g> commytted vnto the<g ref="char:cmbAbbrStroke">̄</g>: as alſo to cauſe al maner prayers oraſons, rubrikes, cano<g ref="char:cmbAbbrStroke">̄</g>s in maſſe bokes, and all other, bokes vſed in the churches, wherin the ſayde byſſhop of Rome is named, or his preſumptuous and proude pompe and authorite preferred, vtterly to be abolyſſhed, eradicate, &amp; raſed out, and his name &amp; memory to be neuer more (except to his contumelye and reproche) remembred, but perpetually ſuppreſſed &amp; obſcured, and fynally to deſyſt &amp; leue out all ſuch articles as be in the general ſente<g ref="char:cmbAbbrStroke">̄</g>ce which is vſually accuſtomed to be red foure tymes in the yeare &amp; do tende to the glory &amp; auau<g ref="char:cmbAbbrStroke">̄</g>cement of the ſaid byſhop of Rome, his, name, tytle, or iuriſdiction. Wherupon we eſtemyng &amp; reputing you to be of ſuch ſyngular &amp; vehement zeele and affection towardes the glory of almyghty God, and of ſo faythful, louyng and obedie<g ref="char:cmbAbbrStroke">̄</g>t harte toward vs, as ye wyl not only do &amp; accom<g ref="char:EOLunhyphen"/>plyſhe, with al your wyſdome, diligence and laboure what ſo euer ſhulde or myghte be to the prefermente &amp; ſettynge forward of Gods word, but alſo practyſe, ſtudy, &amp; endeuoure your ſelfe with al your polycie, wit, power &amp; good wyl to amplifye, defende, and mayntayne al ſuch interreſt, ryght, title, fryle, iuriſdiction, &amp; authorite, as is in ony wyſe apperteynyng vnto vs, our dignite, prerogatyue &amp; crow<g ref="char:EOLhyphen"/>ne imperyall of this our realme, haue thought good and expedient, not onely to ſygnyfy vnto you by theſe our letters the particulari<g ref="char:EOLunhyphen"/>ties of y<hi rend="sup">e</hi> charge monicion and commau<g ref="char:cmbAbbrStroke">̄</g>dement gyuen by vs vnto the ſayde byſhop as before is ſpecyfyed, but alſo to enquire and ſtrait<g ref="char:EOLunhyphen"/>ly charge and commaund you vpon payne of your allegau<g ref="char:cmbAbbrStroke">̄</g>ce and as ye wyll auoyde our high indignacion &amp; dyſpleaſure at your vtter moſt peryll, layeng a part allvayne affections, reſpectes, or other carnal co<g ref="char:cmbAbbrStroke">̄</g>ſideracions, &amp; ſettynge onely before you re eyes the myrrour of truth, the glory of God, the dignitie of your ſouereyne lorde and kynge, and the great co<g ref="char:cmbAbbrStroke">̄</g>cord and vnite &amp; ineſtimable profyt and com<g ref="char:EOLunhyphen"/>modite y<hi rend="sup">t</hi> ſhalby the due <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercutio<g ref="char:cmbAbbrStroke">̄</g> of the premiſſes enſue to your ſelfe and al other faythfull and louyng ſubiectes, ye make or cauſe to be made diligent ſearch, wayte, and eſpial in euery place of your <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ryfwyk, whether the ſayde byſſhop do truely, ſincerly, and wythout al maner cloke, colour, or dyſſimulacion, execute and accomplyſh our wyl, &amp; co<g ref="char:cmbAbbrStroke">̄</g>maundement as is afore ſayd. And incaſe ye ſhall beare per<g ref="char:EOLhyphen"/>ceaue and approuably vnderſta<g ref="char:cmbAbbrStroke">̄</g>d &amp; know that the ſayd byſhop or ony other eccleſiaſtical perſon within his dioces doth omyt &amp; leaue <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> done ony part or parcel of the premyſſes, or els in the execution &amp; ſettyng forth of the ſame do coldely and vnfaynedly vſe ony maner ſi<g ref="char:EOLunhyphen"/>niſter addicion, wronge interpretacion, or paynted colours: Than we ſtraytely charge &amp; commau<g ref="char:cmbAbbrStroke">̄</g>d you, that forthwith vpon ony ſuch defaute, neglygence, or diu<g ref="char:cmbAbbrStroke">̄</g>imulacio<g ref="char:cmbAbbrStroke">̄</g> by the ſayd byſhop or ony other eccleſiaſtical perſone of his dioces committed, co<g ref="char:cmbAbbrStroke">̄</g>trary to y<hi rend="sup">e</hi> true te<g ref="char:EOLhyphen"/>nour, meanynge &amp; effect of y<hi rend="sup">e</hi> ſayde charge by vs to hym appoynted afore ſayde, ye do make indelaydly &amp; with al ſpede and dylyge<g ref="char:cmbAbbrStroke">̄</g>ce de<g ref="char:EOLhyphen"/>claracion &amp; aduertyſement to vs and our cou<g ref="char:cmbAbbrStroke">̄</g>ſel of the ſayd defaulte, &amp; of the behauour, maner and faſhon of y<hi rend="sup">e</hi> ſame. And for aſmuche as we vpon ſyngular truſt &amp; aſſured confyde<g ref="char:cmbAbbrStroke">̄</g>ce, which we haue in you, &amp; for the ſpeciall loue and zele, which we ſuppoſe and thynke ye beare toward vs &amp; the publique &amp; commo<g ref="char:cmbAbbrStroke">̄</g> weale, vnyte &amp; tranquilite of thys our realme, haue ſpecyally elected &amp; choſen you amonge ſo many for this purpoſe, &amp; haue reputed you ſuch men as vnto whoſe wyſedome, diſcrecion, truth, and fidelyte, we myght commytte a matter of ſuch great wayght, moment, and importaunce, as whervpon the vnyte, reſt, and tranquilite of our realme doth conſiſte &amp; is ſtablyſſhed. Yf ye ſhuld contrary to our exſpectacion and truſt, which we haue in you, and agaynſt youre duety and allegaunce to<g ref="char:EOLunhyphen"/>ward vs neglect, be ſlacke, or omyt to do with al your dylygence, dexterite and wyſdome, whatſoeuer ſhalbe in your power, for the due and true perfourmau<g ref="char:cmbAbbrStroke">̄</g>ce and execucion of our mynde and pleaſure to you before declared in thys behalfe, or halte, ſtumble, or wyncke at ony parte, or ſpecialte of the ſame: be ye aſſured that we lyke a prynce of iuſtice, wyl ſo extremly correcte, &amp; puniſh you for the ſame y<hi rend="sup">t</hi> al the world beſydes ſhal take by you enſample and beware contrary to theyr duety, othe, and allegau<g ref="char:cmbAbbrStroke">̄</g>ce to fruſtrate, deceaue, and to dyſobeye the iuſt and lawful commaundement of theyr ſouereygne lord and prynce inſuch thynges, as the true harty and faythfull execution. Wherby ye ſhall not onely preferre and aduaunce the honour and glory of almyghty God, and ſet forth the maieſty and im<g ref="char:EOLunhyphen"/>peryal dignite of your ſouereyn lorde: but alſo importe and bryng an ineſtimable weale, profyte, commodite, vnyte, and tranquyly<g ref="char:EOLhyphen"/>te to all the publique and commun ſtate of this oure realme: where vnto both by the lawes of God, nature and man ye be vtterly, ob<g ref="char:EOLunhyphen"/>liged and bound. Y euen vnder our ſygnet at our Palace of Weſtmynſter, the .ix. day of Iune.</p>
+            <closer>¶ God ſaue the Kynge.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
